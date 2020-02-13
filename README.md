@@ -2,11 +2,11 @@
 
 CIAOOOOO
 
-project name
+## project name
 
-software carpentery example
+**software carpentery example
 
-project goal
+### project goal
 
 
-installation
+* installation
